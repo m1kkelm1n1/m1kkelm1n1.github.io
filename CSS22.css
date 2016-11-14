@@ -1,0 +1,41 @@
+body {
+
+    background-color:azure
+    
+    
+}
+
+h1 {
+
+ color: olive
+}
+
+
+.stilig{
+    
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    padding: 10px 12px 10px 12px;
+    border-radius: 8px;
+    border-style:outset;
+    border-color: red;
+    font-family: sans-serif;
+    
+        
+    }
+    
+        .stilig:hover {
+        background-color: white;
+        border-color: white;
+    }
+
+
+
+
+.boks {
+    
+    width:300px;
+    display: inline-block;
+    text-align:center;
+}
