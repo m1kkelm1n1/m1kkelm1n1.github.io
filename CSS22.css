@@ -39,3 +39,82 @@ h1 {
     display: inline-block;
     text-align:center;
 }
+
+.PRUMP{
+    
+      background-color: dodgerblue;
+    color: white;
+    text-decoration: none;
+    padding: 10px 12px 10px 12px;
+    border-radius: 8px;
+    border-style:outset;
+    border-color: whitesmoke;
+    font-family: sans-serif;
+    
+
+}
+
+.PRUMP:hover{
+    
+     background-color: white;
+        border-color: white;
+    
+    
+}
+
+
+.BØSJ{
+    
+    background-color: #f940a3;
+    color: white;
+    text-decoration: none;
+    padding: 15px 17px 15px 17px;
+    border-radius: 8px;
+    border-style:dashed;
+    border-color: #f940a3;
+    font-family: inherit;
+    
+    }
+
+.BØSJ:hover{
+    
+     background-color: black;
+        border-color: white;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
